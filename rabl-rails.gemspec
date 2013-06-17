@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "activesupport", "~> 4.0"
-  s.add_dependency "railties", "~> 4.0"
+  s.add_dependency "railties", "~> 4.0.0.0rc2.2"
 
   s.add_development_dependency "actionpack", "~> 4.0"
   s.add_development_dependency "rspec-mocks"
